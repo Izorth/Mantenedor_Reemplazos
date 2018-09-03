@@ -9,8 +9,11 @@ Funcionalidades
 *******************
 El sistema debe ser capaz de:
   -Mostrar o ver todos los trabajadores reemplazantes y sus datos
+  
   -Filtrar búsqueda de reemplazantes por "Evaluación"
+  
   -Agregar reemplazantes y todos sus datos
+  
   -
 
 
